@@ -11,7 +11,7 @@
   "private": true,
   "dependencies": {
     "fs-plus": "^3.0.0",
-    "minimatch": "~0.3.0",
+    "minimatch": "~10.2.6",
     "pathwatcher": "^8.1.2",
     "temp": "~0.9.4",
     "underscore-plus": "^1.7.0"
