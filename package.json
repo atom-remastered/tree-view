@@ -3,7 +3,7 @@
   "version": "0.229.1",
   "main": "./lib/main",
   "description": "Explore and open files in the current project.",
-  "repository": "https://github.com/atom/tree-view",
+  "repository": "https://github.com/atom-remastered/tree-view",
   "license": "MIT",
   "engines": {
     "atom": "*"
